@@ -18,6 +18,10 @@ I'm always open to collaborating on:
 ## How to Reach Me
 - 📧 Email: sammxsaf@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-mati/)
-- 🌐 [GitHub Portfolio](https://github.com/samuel-mati/my-portfolio)
+- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/samuel.mati)
+- 📝 [Medium](https://medium.com/@sammxsaf)
+- 🎥 [TikTok](https://www.tiktok.com/@samuel.mati)
+- 🌐 [GitHub](https://github.com/samuel-mati)
+
 
 Feel free to connect with me for any projects, discussions, or learning opportunities!
