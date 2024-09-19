@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @samuel-mati
-- 👀 I’m a Data Analyst
-- 💞️ I’m looking to collaborate on Data Analysis, Programming, Data Visualization and Machine Learning Algorithms
-- 📫 How to reach me ...You can reach me through email: sammxsaf@gmail.com, Facebook: Sammy Martin 
+# 👋 Hi, I'm @samuel-mati
 
+## About Me
+I'm a **Data Analyst** with expertise in **Python**, **SQL**, **Tableau**, **Power BI**, and **Machine Learning**. I am passionate about turning raw data into actionable insights and visualizing trends to help businesses make data-driven decisions. 
 
-<!---
-samuel-mati/samuel-mati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I Do
+- 👀 Specializing in **Data Analysis**, **Programming**, **Data Visualization**, and **Machine Learning Algorithms**.
+- 💼 Experienced in developing interactive dashboards, scraping and cleaning data, and building predictive models.
+- 💻 Skilled in various analytical tools and technologies.
+
+## Let's Collaborate!
+I'm always open to collaborating on:
+- Data Analysis Projects
+- Programming Solutions
+- Data Visualization Dashboards
+- Machine Learning Algorithms
+
+## How to Reach Me
+- 📧 Email: sammxsaf@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-mati/)
+- 🌐 [GitHub Portfolio](https://github.com/samuel-mati/my-portfolio)
+
+Feel free to connect with me for any projects, discussions, or learning opportunities!
