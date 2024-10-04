@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @samuel-mati
+# 👋 Hi, I'm [Samuel Mati]()
 
 ## About Me
 I'm a **Data Analyst** with expertise in **Python**, **SQL**, **Tableau**, **Power BI**, and **Machine Learning**. I am passionate about turning raw data into actionable insights and visualizing trends to help businesses make data-driven decisions. 
