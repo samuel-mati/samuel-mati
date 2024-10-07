@@ -4,7 +4,7 @@
 I'm a **Data Analyst** with expertise in **Python**, **SQL**, **Tableau**, **Power BI**, and **Machine Learning**. I am passionate about turning raw data into actionable insights and visualizing trends to help businesses make data-driven decisions. 
 
 ## What I Do
-- 👀 Specializing in **Data Analysis**, **Programming**, **Data Visualization**, and **Machine Learning Algorithms**.
+- 👀 Specializing in **Data Analysis**, **Data Cleaning**, **Data Mapping**,**Data Model**, **Data Visualization**,...WELL.. **Everithing About Data** 😂😂 **Programming**,  and **Machine Learning Algorithms**.
 - 💼 Experienced in developing interactive dashboards, scraping and cleaning data, and building predictive models.
 - 💻 Skilled in various analytical tools and technologies.
 
