@@ -15,13 +15,9 @@ I'm always open to collaborating on:
 - Data Visualization Dashboards
 - Machine Learning Algorithms
 
-## How to Reach Me
-- 📧 Email: sammxsaf@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-mati/)
-- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/samuel.mati)
-- 📝 [Medium](https://medium.com/@sammxsaf)
-- 🎥 [TikTok](https://www.tiktok.com/@samuel.mati)
-- 🌐 [GitHub](https://github.com/samuel-mati)
+### Contact Me
+[📧 Email](mailto:sammxsaf@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samuel-mati/) | [Medium](https://medium.com/@sammxsaf)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-mati&show_icons=true&count_private=true&theme=radical)
 
 Feel free to connect with me for any projects, discussions, or learning opportunities!
