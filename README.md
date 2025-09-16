@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [Samuel Mati](https://sam-analyst.vercel.app/)
 
-🚀 **Data Analyst | Instructor | Automation & AI Enthusiast**
+**Data Analyst | Instructor | Automation & AI Enthusiast**
 
 I'm a results-driven Data Analyst with over **3 years of hands-on experience** in transforming raw data into actionable insights using **Python, SQL, Power BI, Tableau**, and **machine learning techniques**. I’m also a passionate data instructor currently mentoring students in Kakuma through AREL, helping the next generation harness the power of data.
 
