@@ -68,6 +68,7 @@ I **build systems, frameworks, and models** that reveal these answers with preci
 ### **Data Cleaning & Preparation**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
@@ -80,10 +81,25 @@ I **build systems, frameworks, and models** that reveal these answers with preci
 
 ### **Machine Learning & Analytics**  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat)  
+![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+### **Data Engineering**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)  
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### **Development & Version Control**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
