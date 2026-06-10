@@ -1,8 +1,8 @@
-# Samuel Mati — Data Analyst & Instructor
+# Samuel Mati — Data Analyst & Data Scientist
 
-Based in Kenya. I work with data across the NGO sector, government, and freelance clients.
+Based in Kenya. I build data pipelines, analytical systems, and ML models — across the NGO sector, government, and private clients.
 
-Most of my work is in PostgreSQL, Python, and Power BI. I care about clean pipelines, honest analysis, and communicating findings to people who don't read dashboards for fun.
+PostgreSQL, Python, Power BI. I go from raw messy data to production-ready insight: ETL design, predictive modelling, dashboards that actually get used.
 
 ---
 
