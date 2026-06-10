@@ -1,114 +1,60 @@
-# Hi, I’m Samuel Mati
+# Samuel Mati — Data Analyst & Instructor
 
-**Data Alchemist: Converting Chaos into Growth, Intelligence & Business Impact | Python, SQL, Power BI**
+Based in Kenya. I work with data across the NGO sector, government, and freelance clients.
 
-I’m a **Data Analyst and Instructor** who treats information like strategists treat intelligence — not as numbers, but as leverage. Where others see spreadsheets and scattered systems, I see patterns, signals, and opportunities for action. My work sits at the intersection of **analytics, strategy, and clarity**, turning complex data environments into actionable intelligence that drives decisions and growth.
-
----
-
-## My Approach
-
-Data doesn’t speak clearly on its own. It **mumbles, it whispers, and it hides**. My job is to translate it into insights that answer the questions that matter and actually make sense to companies:  
-
-- Where are we losing money?  
-- What’s slowing us down?  
-- What’s driving growth?  
-- What should we do next?  
-
-I **build systems, frameworks, and models** that reveal these answers with precision, speed, and transparency.
+Most of my work is in PostgreSQL, Python, and Power BI. I care about clean pipelines, honest analysis, and communicating findings to people who don't read dashboards for fun.
 
 ---
 
-## What Sets Me Apart
+## Current work
 
-- Most analysts deliver dashboards. I deliver **direction**.  
-- Most report what happened. I explain **why it happened** and **what you should do next**.  
-- I combine **technical depth** (Python, SQL, Power BI, Excel, automation, predictive analytics) with **strategic thinking, communication, and empathy**.  
+At **AReL in Kakuma**, I built and run a 9-month Data Science & ML programme for refugee learners — curriculum design, instruction, and assessment. 33+ learners, Excel to deployment. [The dropout analysis I ran mid-programme](https://github.com/samuel-mati) surfaced patterns leadership hadn't seen before and changed how we approached retention.
 
-**My goal:** clarity you can trust, decisions you can act on. The goal is not to sound technical, but rather tell you what is happening and what you should focus on
+At **Vantage School of Leadership**, I teach analytics to executive learners part-time.
 
----
-
-## Professional Experience
-
-### **Data & Analytics Instructor | AREL – Action for Refugee Life**  
-*Jan 2025 – Present | Turkana County, Kenya*  
-- Designed and delivered hands-on data analytics training impacting 60+ refugee learners.  
-- Facilitated project-based learning in **Python, SQL, Excel, Power BI, Tableau**.  
-- Mentored learners on real-world projects with a **75% course completion rate**.  
-- Integrated AI & ML concepts into the curriculum to expose learners to modern tools.  
-
-### **Data & Analytics Instructor | Vantage School of Leadership**  
-*Oct 2025 – Present | Part-Time*  
-- Teaching practical analytics skills to executive learners with real-world data projects.
-
-  
-### **Data Analyst | Konza Technopolis Development Authority**  
-*Nov 2023 – Nov 2024 | Kenya*  
-- Spearheaded analytics initiatives to optimize cloud infrastructure strategy and digital transformation.  
-- Analyzed operational and client data to drive high-value business decisions.  
-- Developed value-added Cloud products and informed IT CAPEX planning.  
-- Conducted market research & competitor analysis to identify high-potential leads.  
-- Collaborated across teams to shape data-driven campaigns, proposals, and revenue optimization strategies.  
-
-
-### **Freelance Data Analyst**  
-*2021 – 2023*  
-- Helped organizations frame data strategies and deploy **machine learning models** for time-series forecasting and accident occurrence analysis in Nairobi.  
-- Delivered end-to-end analytics solutions including data cleaning, visualization, and predictive modeling.
-
-### **IT Support Specialist | Mwingi Township IT Department**  
-*Aug 2021 – Oct 2021 | Kenya*  
-- Provided on-site IT support and troubleshooting for municipal systems.
+In parallel, I'm building:
+- **[fintech-etl-pipeline](https://github.com/samuel-mati)** — a multi-source ETL pipeline in PostgreSQL with business analysis on top
+- **[TalentBridge](https://github.com/samuel-mati)** — a job board for the Kenyan IT market (Node.js + PostgreSQL + React). Uses an ML model to score candidate-JD fit across skill overlap, seniority, and keyword relevance. Includes an IT Jobs Forecast feature tracking demand signals and salary trends in the Kenyan market.
 
 ---
 
-## 🛠️ Skills & Tools
+## Past work
 
-### **Data Cleaning & Preparation**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**Konza Technopolis Development Authority** (2023–2024) — data analysis for cloud infrastructure strategy, IT CAPEX planning, and market intelligence.
 
-### **Data Visualization**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat)  
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-### **Machine Learning & Analytics**  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-
-### **Development & Version Control**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+**Freelance** (2021–2023) — time-series forecasting, accident occurrence modelling, dashboards. Mostly for organizations figuring out what their data was actually saying.
 
 ---
 
-## 📈 Featured Projects
+## Stack
 
-- **[Retail Sales Dashboard – Power BI](https://github.com/samuel-mati/retail-sales-dashboard)**  
-  Interactive dashboard analyzing sales and profit across regions and categories.
-
-- **[Kenyan Job Scraper – Python/Scrapy](https://github.com/samuel-mati/job-scraper)**  
-  Scrapes job listings from major Kenyan portals and cleans data for further analysis.
-
-- **[YouTube Analytics Project – API + Pandas](https://github.com/samuel-mati/youtube-kenya-analytics)**  
-  Analyzing top YouTubers in Kenya for content & growth strategy insights.
+```
+SQL           PostgreSQL (primary), query optimization, ETL design
+Python        Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+BI            Power BI, Tableau, DAX
+Other         Git, Excel (advanced), VS Code
+```
 
 ---
 
-## 📬 Connect with Me
+## Selected projects
 
-- 📧 [Email](mailto:sammxsaf@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-mati/)  
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/samuel.mati)  
-- 📝 [Medium](https://medium.com/@sammxsaf)  
-- 🌐 [Portfolio Website](https://sam-analyst.lovable.app/)  
-- 🎥 [TikTok (Data Tips)](https://www.tiktok.com/@samuel.mati)
+| Project | What it is |
+|---|---|
+| [Retail Sales Dashboard](https://github.com/samuel-mati/retail-sales-dashboard) | Power BI — regional/category profit and sales analysis |
+| [Kenyan Job Scraper](https://github.com/samuel-mati/job-scraper) | Python/Scrapy — job listing data from major Kenyan portals |
+| [YouTube Kenya Analytics](https://github.com/samuel-mati/youtube-kenya-analytics) | API + Pandas — content and growth patterns for Kenyan creators |
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-mati&show_icons=true&count_private=true&theme=radical)
+## Writing & content
+
+I run **[Analysis With Sam](https://www.youtube.com/@AnalysisWithSam)** — data analytics education grounded in the African context. Also write occasionally on [Medium](https://medium.com/@sammxsaf).
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/samuel-mati/) · [Portfolio](https://sam-analyst.lovable.app/) · [Tableau Public](https://public.tableau.com/app/profile/samuel.mati) · [Email](mailto:sammxsaf@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-mati&show_icons=true&count_private=true&theme=radical)
