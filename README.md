@@ -106,7 +106,7 @@ I **build systems, frameworks, and models** that reveal these answers with preci
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-mati/)  
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/samuel.mati)  
 - 📝 [Medium](https://medium.com/@sammxsaf)  
-- 🌐 [Portfolio Website](https://sam-analyst.vercel.app/)  
+- 🌐 [Portfolio Website](https://sam-analyst.lovable.app/)  
 - 🎥 [TikTok (Data Tips)](https://www.tiktok.com/@samuel.mati)
 
 ---
