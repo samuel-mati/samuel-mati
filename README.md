@@ -1,8 +1,8 @@
 # Hi, I’m Samuel Mati
 
-**Data Alchemist: Converting Chaos into Growth, Intelligence & Business Impact | Python, SQL, Power BI**
+**Data Alchemist: Converting Chaos into Growth, Intelligence & Business Impact | Python, SQL, Power BI, Excel, TensorFlow, Pandas, Keras, Big Query, Airflow**
 
-I’m a **Data Analyst and Instructor** who treats information like strategists treat intelligence — not as numbers, but as leverage. Where others see spreadsheets and scattered systems, I see patterns, signals, and opportunities for action. My work sits at the intersection of **analytics, strategy, and clarity**, turning complex data environments into actionable intelligence that drives decisions and growth.
+I’m a **Data Analyst and Scientist** who treats information like strategists treat intelligence — not as numbers, but as leverage. Where others see spreadsheets and scattered systems, I see patterns, signals, and opportunities for action. My work sits at the intersection of **analytics, strategy, and clarity**, turning complex data environments into actionable intelligence that drives decisions and growth.
 
 ---
 
